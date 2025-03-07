@@ -1,5 +1,5 @@
 # shell-setup
-Joel's favorite aliases and other shell stuff
+Jolyn's favorite aliases and other shell stuff
 
 ## Installation
 
